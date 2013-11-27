@@ -12,7 +12,7 @@ Use `pip` to install the required PyPI packages
 $ pip install -r requirements.txt
 ```
 
-Then open `push.py` and enter your Pushover User Key you can find on [the Pushover homepage][1] when logged in, then run the script.
+Then edit `push.py` and replace `your_user_key_here` with your Pushover User Key you can find on [the Pushover homepage][1] when logged in, then run the script.
 
 ```
 $ python push.py
